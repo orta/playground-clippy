@@ -2,6 +2,7 @@ import typescript from '@rollup/plugin-typescript'
 import node from '@rollup/plugin-node-resolve'
 import commonjs from '@rollup/plugin-commonjs'
 import json from '@rollup/plugin-json'
+import {copyFileSync, existsSync, mkdirSync} from "fs"
 
 // You can have more root bundles by extending this array
 const rootFiles = ['index.ts']

@@ -1,17 +1,21 @@
-## TypeScript Playground Plugin
+## Playground Plugin Clippy
 
-My new plugin for the TypeScript playground.
+<img src="./screens/screenshot1.png">
+
+Or, with a hint of chaos
+
+<img src="./screens/screenshot2.png">
 
 ## Running this plugin
 
-- [Click this link](https://www.staging-typescript.org/play?install-plugin=[name]) to install
+- [Click this link](https://www.staging-typescript.org/play?install-plugin=playground-clippy) to install
 
 or
 
 - Open up the TypeScript Playground
 - Go the "Plugins" in the sidebar
 - Look for "Plugins from npm"
-- Add "[name]"
+- Add "playground-clippy"
 - Reload the browser
 
 Then it will show up as a tab in the sidebar.
