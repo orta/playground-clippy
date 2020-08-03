@@ -1,11 +1,12 @@
 {
   "name": "playground-clippy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/index.js",
   "license": "MIT",
   "keywords": [
     "playground-plugin"
   ],
+  "description": "Finally, someone who has an answer for every problem in your Playground",
   "repository": {
     "type": "git",
     "url": "https://github.com/orta/playground-clippy"
