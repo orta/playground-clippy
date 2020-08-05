@@ -1,5 +1,7 @@
 ## Playground Plugin Clippy
 
+Finally, someone who has an answer for every problem in your Playground.
+
 <img src="./screens/screenshot1.png">
 
 Or, with a hint of chaos
